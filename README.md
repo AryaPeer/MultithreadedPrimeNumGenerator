@@ -1,2 +1,3 @@
 # MultithreadedPrimeNumGenerator
-A prime number generator within a range specified by user, utilizes multithreading.
+
+A prime number generator that generates all the prime numbers using multithreading within a specific range.
